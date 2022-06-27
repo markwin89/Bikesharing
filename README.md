@@ -1,5 +1,5 @@
 # Bikesharing
-
+[link to dashboard](https://public.tableau.com/app/profile/mark.nguyen7761/viz/Citibike_Challenge_16560075459400/CitibikeStory)
 ## Overview
 ### Purpose
 To create an analytical story in Tableau to reflect the data in graphs.  The data we are using is a bike sharing program called "citibike". 
@@ -7,7 +7,9 @@ To create an analytical story in Tableau to reflect the data in graphs.  The dat
 ## Results 
 ### Python
   - Used Pandas to update a column in data frame for time conversion where it has hours and minutes and gender to show "Male, Female, and Unknown".  
-![Checkout Users](https://user-images.githubusercontent.com/101272613/175842716-e3edf60e-5f2a-40af-bec3-9bf320c117f7.PNG)
+![Pandas](https://user-images.githubusercontent.com/101272613/175843040-5914f5b8-6ae4-454e-b6bd-dd0d13aa55fc.PNG)
+![pandas1](https://user-images.githubusercontent.com/101272613/175843042-df663cc6-c18a-4c90-a4da-f7520a3390a6.PNG)
+![pandas2](https://user-images.githubusercontent.com/101272613/175843048-b6c032b6-4669-44b2-9a45-05179f2ffbaa.PNG)
 
 ### Worksheets and Story
   - Checkout by Users
