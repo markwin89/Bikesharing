@@ -46,9 +46,11 @@ To create an analytical story in Tableau to reflect the data in graphs.  The dat
 ## Results
 ### Proposed Repair Time
   - The best times for repairs are from 1 AM to 5 AM.
+![Repair Time](https://user-images.githubusercontent.com/101272613/175842840-38ee29d9-b486-480f-a721-2e1dbd098ca5.PNG)
 
 ### Proposed Review
   - We have to look into the reasoning why more males or willing to use this app. Maybe if we improve the bikes or stop/start locations in a way females would be willing to use this app as much as males do.
+![End Station](https://user-images.githubusercontent.com/101272613/175842836-016c7536-7489-4d2b-ac40-590dd2474842.PNG)
 
 
 
